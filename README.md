@@ -1,4 +1,4 @@
-# Pokémon Data Analysis 🐾📊
+# Pokémon Data Analysis 📊
 
 Welcome to our **Pokémon Data Analysis** project! This project explores and analyzes a dataset of Pokémon to uncover interesting insights, patterns, and trends in the world of Pokémon. From visualizing type distributions to examining stats correlations, we use data analysis techniques to better understand this iconic dataset.
 
